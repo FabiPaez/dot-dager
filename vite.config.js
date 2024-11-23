@@ -7,5 +7,6 @@ export default defineConfig({
     vue(),
     vuetify({ autoImport: true }), // Vuetify plugin
   ],
+  base: '/dot-dager/',
 });
 
