@@ -1,0 +1,14 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: 'Fender','Roboto';
+  src: url('path/to/fender-font.ttf') format('truetype');
+}
+
+.navbar a {
+  text-transform: uppercase;
+}
+
